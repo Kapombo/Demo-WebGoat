@@ -12,5 +12,5 @@ jobs:
         uses: actions/checkout@v2
 
       - name: Run Debricked scan
-        uses: debricked/actions/scan@v1
+        uses: debricked/actions@v4.0.0
 
